@@ -265,7 +265,7 @@ git clone https://github.com/Lwandle-Chauke/cgi-number-challenge.git
 ## Compile the Application
 
 ```bash
-javac NumberChallenge.java
+javac Numberd.java
 ```
 
 ## Configure Apache CGI Support
