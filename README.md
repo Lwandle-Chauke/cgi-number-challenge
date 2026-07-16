@@ -302,17 +302,15 @@ Documentation included in this repository may contain:
 
 ---
 
-# Screenshots
+# Video Demonstration
 
-Screenshots demonstrating the application can be found inside the:
+Video demonstrating the application can be found here:
 
 ```text
-screenshots/
+(https://1drv.ms/v/c/beebdd8384d0e53c/IQAxNocH6wtSRamqdDL5QIj9Aesmrkoq5Olaaqu3WTaXu7U?e=Gwp0GY)
 ```
 
-directory.
-
-Example screenshots include:
+Example includes:
 
 * Initial challenge screen
 * User input form
