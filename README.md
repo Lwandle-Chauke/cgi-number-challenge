@@ -307,7 +307,7 @@ Documentation included in this repository may contain:
 Video demonstrating the application can be found here:
 
 ```text
-(https://1drv.ms/v/c/beebdd8384d0e53c/IQAxNocH6wtSRamqdDL5QIj9Aesmrkoq5Olaaqu3WTaXu7U?e=Gwp0GY)
+https://1drv.ms/v/c/beebdd8384d0e53c/IQAxNocH6wtSRamqdDL5QIj9Aesmrkoq5Olaaqu3WTaXu7U?e=Gwp0GY
 ```
 
 Example includes:
