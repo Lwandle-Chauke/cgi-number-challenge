@@ -304,11 +304,12 @@ Documentation included in this repository may contain:
 
 # Video Demonstration
 
-Video demonstrating the application can be found here:
+Video demonstrating the application can be found in the:
 
 ```text
-https://1drv.ms/v/c/beebdd8384d0e53c/IQAxNocH6wtSRamqdDL5QIj9Aesmrkoq5Olaaqu3WTaXu7U?e=Gwp0GY
+cgi-number-game.mp4
 ```
+file
 
 Example includes:
 
